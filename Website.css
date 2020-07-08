@@ -1,0 +1,99 @@
+body{
+	background-color: rgba(0,0,0,0.9);
+}
+#header {
+	text-align: center;
+	font-family: Sonsie One;
+	text-decoration: underline;
+	font-size: 45px;
+	color: white;
+	margin: -8px -8px 10px -8px;
+	padding:5%;
+	
+	border: 2px solid rgb(120,80,240);
+	background-color: rgb(120,80,240);
+}
+
+.homeHeader{
+	text-align: center;
+	font-family: Sonsie One;
+	font-size: 25px;
+	text-decoration: underline;
+	color: rgb(120,80,240);
+	margin: 10px auto;
+	padding:10px;
+	width: 30%;
+}
+
+
+.tutorialsHeader{
+	
+	text-align: center;
+	font-family: Sonsie One;
+	font-size: 25px;
+	text-decoration: underline;
+	color: rgb(120,80,240);
+	margin: 10px auto;
+	padding:10px;
+	width: 30%;
+}
+
+.myBeatsHeader{
+	
+	text-align: center;
+	font-family: Sonsie One;
+	font-size: 25px;
+	text-decoration: underline;
+	color: rgb(120,80,240);
+	margin: 10px auto;
+	padding:10px;
+	width: 30%;
+}
+
+.myStoryHeader{
+	text-align: center;
+	font-family: Sonsie One;
+	font-size: 25px;
+	text-decoration: underline;
+	color: rgb(120,80,240);
+	margin: 10px auto;
+	padding:10px;
+	width: 30%;
+}
+
+.linkBar {
+	font-family: Arial;
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+	margin: 5% 10% 2% -8px;
+	width:30%;
+	height: 60%;
+	padding: 12px 0 0 0;
+}
+
+#firstLink {
+	background-color: rgba(80,140,255,1);
+
+}
+
+#secondLink {
+
+	background-color: rgb(170,120,200)
+}
+
+#thirdLink {
+	background-color: rgb(120,190,180)
+}
+
+/*#speakeasyImage {
+	margin: 10px 50px;
+	padding:5px auto;
+	width: 22%;
+}*/
+
+.column {
+	float: left;
+	width: 39%;
+	height: 50px;
+}
